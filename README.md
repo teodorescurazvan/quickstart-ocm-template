@@ -1,4 +1,4 @@
-# sehub-qs-master
-Master repository for code on OCE QuickStart demo.
+# OCM QuickStart Template
+Master repository for code on OCM QuickStart template.
 
-This is to test branching.
+
